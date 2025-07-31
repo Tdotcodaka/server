@@ -1,4 +1,3 @@
 <?php
 
-<h1><? = print-welcome-message(); ?>
-
+<h1><?php print-welcome-message();?>
